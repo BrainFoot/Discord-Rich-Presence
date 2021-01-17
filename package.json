@@ -1,0 +1,20 @@
+{
+  "name": "richpresence",
+  "version": "1.0.0",
+  "description": "A simple rich presence for Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+     "test": "npm run test"
+  },
+  "keywords": [
+    "Discord",
+    "Rich",
+    "Presence"
+  ],
+  "author": "BrainFoot",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.1.4"
+  }
+}
