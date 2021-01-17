@@ -18,7 +18,7 @@
 ## Prerequisites
 
 - npm >=5.5.0
-- node >=9.3.0
+- node >=12.x
 
 ## Install
 
@@ -50,4 +50,3 @@ npm run test
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
